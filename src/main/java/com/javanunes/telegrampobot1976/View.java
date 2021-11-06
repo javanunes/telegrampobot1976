@@ -32,11 +32,11 @@ public class View {
     public static void menuAjuda(){
         print("\n\n");
         print("-------AJUDA TELEGRAMPO BOT1976 VERSAO " + Model.getVersao() + "---------------------------\n");
-        print("- setup    - > faz a primeira configuracao de sala e token             --\n");
-        print("- teste    - > chama funcoes de teste do programador                   --\n");
-        print("- cd       - > entra numa sala para enviar texto                       --\n");
+        print("- setup     - > faz a primeira configuracao de sala e token            --\n");
+        print("- teste     - > chama funcoes de teste do programador                  --\n");
+        print("- cd        - > entra numa sala para enviar texto                      --\n");
         print("- exit      - > sai da sala ou desliga o bot                           --\n");
-        print("- aprende!  - > salva ultima resposta para a ultma pergunta feita      --\n");
+        print("- aprende!  - > salva ultima resposta para a ultima pergunta feita     --\n");
         print("- debug     - > habilita o modo debug verboso                          --\n");
         print("- dir       - > lista ids de salas                                     --\n");
         print("- CTR + R   - > para finalizar o programa de forma forçada             --\n");

@@ -20,7 +20,7 @@ public class Model {
     public  static String  ARQUIVO_CONFIGURACOES_BASICAS_INICIALIZACAO ="config.ini";
     public  static String  ARQUIVO_RESPOSTAS_MEMORIZADAS ="memoria.ini";
     public  static String  DIRETORIO_CONFIGURACOES_BOT=".config/TelegramBot1976/";
-    public  static String  salaID="-10000000";
+    public  static String  salaID="-12345678";
     public  static String  tokenTelegram="923849484:hjhdfghdjgfdfhg";
     public  static String  urlAPI= "https://api.telegram.org/bot";
     public  static String  ultimoComentarioEnviadoPraMim = "";
