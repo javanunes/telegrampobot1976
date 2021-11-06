@@ -6,3 +6,4 @@
  * 
  * Lembrando que as respostas automaticas ficam em um arquivo à parte que é salvo quando
  * se digitar a palavra correta. para saber mais, digite help no prompt do robô
+ * -------
